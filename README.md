@@ -1,10 +1,6 @@
-<img src="https://raw.githubusercontent.com/hmpmanish/hmpmanish/main/ChatGPT%20Image%20Apr%2010%2C%202025%2C%2001_05_45%20PM.png" width="100%" alt="banner" />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
 
-# 👋 Hey there, I'm Manish Pandey
 
+# 👋 Hey there, I'm Vikrant Singh
 ### 💻 Beginner Full-Stack Developer | 🌱 Learning Everyday
 
 ---
@@ -28,19 +24,9 @@
 
 ---
 
-## 🚀 My Small Projects
-- 🖐️ [**Hand Detector**](https://github.com/hmpmanish/Hand-Detector)
-- 👣 [**Motion Tracking**](https://github.com/hmpmanish/Motion-Tracking)
-- 🌐 [**Personal Portfolio**](https://github.com/hmpmanish/portfolio)
-- 🧮 [**Calculator**](https://github.com/hmpmanish/calculator-)
-- 🤖 [**Chatbot**](https://github.com/hmpmanish/Chatbot)
-
 ---
 
-## 🏅 Certificates
-- 🐍 Python (Intermediate) – [View](https://www.hackerrank.com/certificates/26c8a1814531)
-- ☕ Java (Basic) – [View](https://www.hackerrank.com/certificates/iframe/7367677eeccb)
-- 🧩 Problem Solving – [View](https://www.hackerrank.com/certificates/iframe/694fc7f813a7)
+
 
 ---
 
@@ -53,10 +39,7 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href="mailto:hmpmanish@gmail.com"><img src="https://img.shields.io/badge/Gmail-hmpmanish-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hmpmanish"><img src="https://img.shields.io/badge/LinkedIn-hmpmanish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/hmpmanish"><img src="https://img.shields.io/badge/Twitter-hmpmanish-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+  
 
 ---
 
