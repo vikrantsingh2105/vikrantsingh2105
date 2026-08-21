@@ -9,7 +9,7 @@
 - 🧠 Learning **Web Development**, **Python**, and **JavaScript**
 - 💡 Love to build simple projects and learn new tools
 - 🚀 Interested in **Cloud**, **APIs**, and **Automation**
-- 🎧 I enjoy coding with Bhojpuri songs 🎶
+- 
 
 ---
 
