@@ -1,19 +1,19 @@
-
-
 # 👋 Hey there, I'm Vikrant Singh
+
 ### 💻 Beginner Full-Stack Developer | 🌱 Learning Everyday
 
 ---
 
 ## 👨‍💻 About Me
+
 - 🧠 Learning **Web Development**, **Python**, and **JavaScript**
 - 💡 Love to build simple projects and learn new tools
 - 🚀 Interested in **Cloud**, **APIs**, and **Automation**
-- 
 
 ---
 
 ## 🧰 Tech I Use
+
 <p>
   <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,23 +24,25 @@
 
 ---
 
----
+## 📊 GitHub Contribution Graph
 
-
-
----
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantsingh2105&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantsingh2105&theme=tokyo-night&hide_border=true"
+    alt="Vikrant Singh's GitHub Contribution Graph"
+  />
+
 </div>
 
 ---
 
 ## 📫 Connect With Me
+
 <p>
-  
+  <!-- Add your social media links here -->
+</p>
 
 ---
 
-⭐ *“Keep learning, keep building!”*
+⭐ *"Keep learning, keep building!"*
