@@ -38,8 +38,8 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantsingh2105&theme=tokyo-night&hide_border=true"
-    alt="Vikrant Singh's GitHub Contribution Graph"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantsingh2105&theme=tokyonight&hide_border=true" 
+    alt="Vikrant Singh's GitHub Streak" 
   />
 </div>
 
